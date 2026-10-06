@@ -8,6 +8,7 @@ This repository contains my practical work for the Scripting For Cybersecurity m
 - Lab 02 - Linux Command Line
 - Lab 03
 - Lab 04
+- Lab 05
 
 ## Revision
 
