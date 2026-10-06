@@ -1,0 +1,48 @@
+Evidence Triage Report
+Analyst: Jon
+Case Reference: 23
+Date: Tue Oct  6 10:46:09 UTC 2026
+
+Total Files:      24      24     566 -
+     24      24     566 total
+Total Directorie: 
+Python Files:       2       2      44 -
+      2       2      44 total
+Shell Scripts:       1       1      22 -
+      1       1      22 total
+Log Files:       4       4      91 -
+      4       4      91 total
+Configuration Files:       3       3      72 -
+      3       3      72 total
+Empty Files:       0       0       0 -
+      0       0       0 total
+Archives:       0       0       0 -
+      0       0       0 total
+
+Files containing 'admin': 
+
+Detected File Types: 
+case/config-new.txt
+case/logs/firewall.log
+case/logs/auth.log
+case/logs/access.log
+case/nested/archive/old.log
+case/config-changes.txt
+case/scripts/report.py
+case/scripts/scan.py
+case/scripts/check.sh
+case/configs/app.conf
+case/configs/server.conf
+case/configs/backup.conf
+case/backups/users.old
+case/backups/config.old
+case/evidence/suspicious.dat
+case/evidence/notes.txt
+case/evidence/empty.bin
+case/evidence/image.png
+case/evidence/passwords.txt
+case/evidence/archive.zip
+case/evidence/readme.md
+case/config-old.txt
+case/triage-report.txt
+case/docs/inventory.txt
